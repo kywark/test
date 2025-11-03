@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "kywark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63518403?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "kywark",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-11-03T16:38:14.871Z",
-    "updated_at": "2025-11-03T16:38:14.871Z"
-  }
+    "updated_at": "2025-11-03T16:38:14.871Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "d7ce17d5-a300-4317-b7cb-9017990bc42f": {
+      "content": [],
+      "created_at": "2025-11-03T16:38:14.893Z",
+      "created_by": "kywark",
+      "title": "test",
+      "updated_at": "2025-11-03T16:38:14.893Z",
+      "updated_by": "kywark",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "d7ce17d5-a300-4317-b7cb-9017990bc42f"
+  ]
 }
