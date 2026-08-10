@@ -49,6 +49,23 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "heading 4 again? ",
+          "textSize": "heading-four"
+        }
+      ]
     }
   ],
   "title": "editing",
@@ -59,6 +76,6 @@
   "slug": "editing",
   "created_at": "2026-08-10T20:06:28.641Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-10T20:06:28.641Z",
+  "updated_at": "2026-08-10T20:08:40.900Z",
   "updated_by": "kywark"
 }
