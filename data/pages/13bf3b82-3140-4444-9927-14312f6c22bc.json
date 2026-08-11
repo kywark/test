@@ -1,0 +1,56 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://unsplash.com/photos/hand-silhouette-with-golden-bokeh-2JEKcegb_rE",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://unsplash.com/photos/blurred-floral-shapes-behind-textured-glass-zT9qe6n65WU",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "images",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "images",
+  "created_at": "2026-08-11T22:17:11.381Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-11T22:17:11.381Z",
+  "updated_by": "kywark"
+}
