@@ -1,1 +1,55 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"kywark","avatar_url":"https://avatars.githubusercontent.com/u/63518403?v=4","admin":true}],"project":{"github_org":"kywark","is_private":false,"title":"test","description":"test","language":"en","slug":"test","creator":"kywark","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[],"tags":[]},"created_at":"2025-11-03T16:38:14.871Z","updated_at":"2026-08-11T23:57:11.577Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"d7ce17d5-a300-4317-b7cb-9017990bc42f":{"content":[],"created_at":"2025-11-03T16:38:14.893Z","created_by":"kywark","title":"test","updated_at":"2025-11-03T16:38:14.893Z","updated_by":"kywark","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["d7ce17d5-a300-4317-b7cb-9017990bc42f"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "kywark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63518403?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "kywark",
+    "is_private": false,
+    "title": "test",
+    "description": "test",
+    "language": "en",
+    "slug": "test",
+    "creator": "kywark",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-11-03T16:38:14.871Z",
+    "updated_at": "2026-08-12T00:02:47.197Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "d7ce17d5-a300-4317-b7cb-9017990bc42f": {
+      "content": [],
+      "created_at": "2025-11-03T16:38:14.893Z",
+      "created_by": "kywark",
+      "title": "test",
+      "updated_at": "2025-11-03T16:38:14.893Z",
+      "updated_by": "kywark",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "d7ce17d5-a300-4317-b7cb-9017990bc42f"
+  ]
+}
