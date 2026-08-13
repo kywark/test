@@ -17,27 +17,6 @@
         {
           "category": "_uncategorized_",
           "tag": "Location"
-        }
-      ],
-      "uuid": "c3973e4d-cb7b-43be-8d96-8305a5526bc3"
-    },
-    {
-      "start_time": 185,
-      "end_time": 185,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "hello"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Location"
         },
         {
           "category": "_uncategorized_",
