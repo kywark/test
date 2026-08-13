@@ -45,35 +45,6 @@
         }
       ],
       "uuid": "1180a50f-9713-4736-9d14-404245de77e4"
-    },
-    {
-      "start_time": 186,
-      "end_time": 185,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "hi"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Person"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Location"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "verbatim"
-        }
-      ],
-      "uuid": "5c896634-01c0-460c-afb2-7dda238e162c"
     }
   ],
   "set": "Default",
