@@ -47,31 +47,6 @@
       "uuid": "1180a50f-9713-4736-9d14-404245de77e4"
     },
     {
-      "start_time": 185,
-      "end_time": 185,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "hello"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Location"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "edited"
-        }
-      ],
-      "uuid": "ba08881c-0724-4170-954f-e8e80c11ca5f"
-    },
-    {
       "start_time": 186,
       "end_time": 185,
       "annotation": [
